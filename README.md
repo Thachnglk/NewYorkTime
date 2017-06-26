@@ -2,7 +2,7 @@
 
 **NewYorkTime Article Search** is an android app that allows a user to search for articles on web using simple filters. The app utilizes [New York Times Search API](http://developer.nytimes.com/docs/read/article_search_api_v2).
 
-Time spent: **15** hours spent in total
+Time spent: **19** hours spent in total
 
 ## User Stories
 
@@ -45,6 +45,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+http://i.imgur.com/RdORi4h.gif
 
 
 
