@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">N.Y_Times</string>
+    <string name="search">Search</string>
+    <string name="hint">What are you looking for ?</string>
+    <string name="filter_begin_date">Begin Date: </string>
+    <string name="filter_sort_order">Sort Order: </string>
+    <string name="filter_favorite">News Desk\nValues: </string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="arrayCheckbox">
+        <item>Arts</item>
+        <item>Fashion &amp; Style</item>
+        <item>Sports</item>
+        <item>More:</item>
+    </string-array>
+</resources>
